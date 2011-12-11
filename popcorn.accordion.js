@@ -19,7 +19,7 @@
      start: 5, // seconds
      end: 15, // seconds
      pane: 0, // 0-based index
-     target: 'footnotediv'
+     target: 'accordiondiv'
      } )
      *
      */
